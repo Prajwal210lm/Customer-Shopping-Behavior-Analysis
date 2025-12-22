@@ -3,6 +3,7 @@
 ## Overview
 
 This project focuses on translating customer transaction data into business insights that can support marketing, pricing, and retention decisions. The analysis combines exploratory data work, SQL based logic, and dashboarding to answer real world business questions.
+<img width="1316" height="722" alt="image" src="https://github.com/user-attachments/assets/36a89066-8743-414d-bf80-e49d28b50af0" />
 
 ## Dataset
 
